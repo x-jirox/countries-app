@@ -1,8 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import HeaderPage from './components/HeaderPage.vue';
 </script>
 
+
 <template>
-<h1>Countries App</h1>
+<HeaderPage/>
 </template>
 
